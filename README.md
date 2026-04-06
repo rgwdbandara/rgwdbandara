@@ -1,57 +1,83 @@
-# Hi there! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:4c1d95&height=260&section=header&text=Wathsala%20Bandara&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descAlign=50" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://media.tenor.com/kDKGm1ddC6kAAAAj/cute-puppy.gif" alt="Cute Puppy" width="160" />
+<img align="right" alt="coding" height="180px" src="https://octodex.github.com/images/femalecodertocat.png" />
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rgwdbandara&label=Profile%20views&color=4c1d95&style=flat" />
 </p>
 
+---
+
+## 👩‍💻 About Me
+🎓 Computer Science Undergraduate (3rd Year)  
+🎨 Interested in UI/UX Design  
+💻 Passionate about Full Stack Development  
+📍 Kandy, Sri Lanka  
+
+---
+
+## 🌐 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/wbandara">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="mailto:wd34858@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30"/>
+</a>
+<a href="https://wathsala-portfolio.vercel.app">
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" height="30" width="30"/>
+</a>
+</p>
+
+---
+
+## ⚡ GitHub Activity
+
+[![Wathsala's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rgwdbandara&bg_color=0f172a&color=a78bfa&line=8b5cf6&point=a78bfa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
-  <h1>Hey, I'm <span style="color:#4c8ed9;">Wathsala Bandara</span> 👋</h1>
-  <p>
-    🌟 <b>Computer Science Undergraduate</b><br>
-    💡 <b>NSBM Green University</b><br>
-    🚀 <b>Welcome to my GitHub!</b>
-  </p>
+  <img src="https://raw.githubusercontent.com/rgwdbandara/rgwdbandara/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
-## 💬 About Me
-```yaml
-- 🚀 Passionate about software engineering, web development & AI.
-- 🌱 Currently learning: Full-Stack Development & Machine Learning.
-- 🤝 Always open to collaborating on innovative projects.
-- 🧩 Problem solver | Tech enthusiast | Lifelong learner.
-```
+## 🛠️ Skills
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nadeesha-bandara-16613b293" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/thathsarani_nt" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100089645427230" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs,express,flask,mongodb,firebase,git,github,docker,vscode,figma" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="370px" src="https://github-readme-stats.vercel.app/api?username=NadeeshaBandara&custom_title=Nadeesha's+GitHub+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=4c8ed9&text_color=555&icon_color=4c8ed9&cache_seconds=1800" />
-  <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeeshab2&background=00000000&hide_border=true&stroke=555&ring=4c8ed9&fire=4c8ed9&currStreakNum=555&sideNums=555&currStreakLabel=555&sideLabels=555&dates=555" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rgwdbandara&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rgwdbandara&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Projects
+
+🔹 **AutoVerge** – Smart Car Buying & Selling Platform  
+🔹 **SiSafe** – Sinhala Hate Speech Detection System  
+🔹 **MoodFlix** – AI Movie Recommendation Web App  
 
 ---
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Surprise!" width="280"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=8b5cf6&width=500&height=60&lines=Building+modern+web+apps;UI%2FUX+focused+developer;Always+learning+new+things..." />
 </p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0f172a&height=120&section=footer"/>
+</div>
