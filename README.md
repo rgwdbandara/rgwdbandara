@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:4c1d95&height=260&section=header&text=Wathsala%20Bandara&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:4c1d95&height=260&section=header&text=Wathsala%20Bandara&fontColor=ffffff&fontSize=65&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descColor=ffffff&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <img align="right" alt="coding" height="180px" src="https://octodex.github.com/images/femalecodertocat.png" />
@@ -66,9 +66,12 @@
 
 ## 🚀 Projects
 
-🔹 **AutoVerge** – Smart Car Buying & Selling Platform  
-🔹 **SiSafe** – Sinhala Hate Speech Detection System  
-🔹 **MoodFlix** – AI Movie Recommendation Web App  
+🔹 **AutoVerge** – Smart Car Buying & Selling Platform 
+
+🔹 **MoodFlix** – AI Movie Recommendation Web App 
+
+🔹 **Eventra** – Event Management Web App
+
 
 ---
 
